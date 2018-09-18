@@ -1,26 +1,27 @@
 {
-  "name":           "stablematch",
-  "description":    "A pure javascript implementation of the Stable Matching Algorithm.",
-  "version":        "0.0.4",
-  "main":           "stablematch.js",
-  "author":         "metagriffin <mg.npmjs@uberdev.org>",
-  "licenses": [{
-    "type":           "MIT",
-    "url":            "http://opensource.org/licenses/MIT"
-  }],
+  "name": "@protonapp/stablematch",
+  "description": "A pure javascript implementation of the Stable Matching Algorithm.",
+  "version": "0.0.4",
+  "main": "stablematch.js",
+  "author": "metagriffin <mg.npmjs@uberdev.org>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url":  "git://github.com/metagriffin/stablematch-js.git"
+    "url": "git://github.com/metagriffin/stablematch-js.git"
   },
   "bugs": {
     "url": "https://github.com/metagriffin/stablematch-js/issues"
   },
   "dependencies": {
-    "amdefine":      ">=0.0.4",
-    "underscore":    ">=1.4.2"
+    "underscore": ">=1.4.2"
   },
   "devDependencies": {
-    "jasmine-node":  ">=1.0.26"
+    "jasmine-node": ">=1.0.26"
   },
   "keywords": [
     "stable",
