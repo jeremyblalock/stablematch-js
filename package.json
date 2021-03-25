@@ -1,5 +1,5 @@
 {
-  "name": "@protonapp/stablematch",
+  "name": "stablematch-common",
   "description": "A pure javascript implementation of the Stable Matching Algorithm.",
   "version": "0.0.4",
   "main": "stablematch.js",
@@ -12,10 +12,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/metagriffin/stablematch-js.git"
+    "url": "git://github.com/jeremyblalock/stablematch-js.git"
   },
   "bugs": {
-    "url": "https://github.com/metagriffin/stablematch-js/issues"
+    "url": "https://github.com/jeremyblalock/stablematch-js/issues"
   },
   "dependencies": {
     "underscore": ">=1.4.2"

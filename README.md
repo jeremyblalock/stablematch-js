@@ -1,3 +1,9 @@
+stablematch-common
+=================
+
+This is a fork of the original package, which is more compatable with webpack.
+
+
 stablematch
 ===========
 
